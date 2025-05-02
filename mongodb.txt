@@ -1,0 +1,3 @@
+mongodb+srv://kenzoft20:sinsalab1M_$@cursojs01.0tyscfr.mongodb.net/TESTANDO?retryWrites=true&w=majority&appName=cursojs01
+user: kenzoft20
+senha: sin...
